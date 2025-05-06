@@ -2,6 +2,7 @@
 
 # How to install
 Drag the install.mel file into Maya's viewport, the tool will appear on the current shelf
+Access Maya's console and input sys.path.append("INSERT FILE PATH TO src HERE")
 
 ## Finger Joint Manager
 
